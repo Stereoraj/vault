@@ -835,22 +835,34 @@
 			"revisionTime": "2018-12-12T19:59:51Z"
 		},
 		{
-			"checksumSHA1": "smALroa48uCO+J9JRlHBmz/XQMw=",
+			"checksumSHA1": "H4RhrnI0P34qLB9345G4r7CAwpU=",
 			"path": "github.com/circonus-labs/circonus-gometrics",
-			"revision": "03033123293bfe2241d1f7e1a3de8fb508265251",
-			"revisionTime": "2018-09-28T18:16:22Z"
+			"revision": "d6e3aea90ab9f90fe8456e13fc520f43d102da4d",
+			"revisionTime": "2019-01-28T15:50:09Z",
+			"version": "v2.2.6",
+			"versionExact": "v2.2.6"
 		},
 		{
 			"checksumSHA1": "xtzLG2UjYF1lnD33Wk+Nu/KOO6E=",
 			"path": "github.com/circonus-labs/circonus-gometrics/api",
-			"revision": "03033123293bfe2241d1f7e1a3de8fb508265251",
-			"revisionTime": "2018-09-28T18:16:22Z"
+			"revision": "d6e3aea90ab9f90fe8456e13fc520f43d102da4d",
+			"revisionTime": "2019-01-28T15:50:09Z",
+			"version": "v2.2.6",
+			"versionExact": "v2.2.6"
+		},
+		{
+			"path": "github.com/circonus-labs/circonus-gometrics/api/checkmgr",
+			"revision": "v2.2.6",
+			"version": "v2.2.6",
+			"versionExact": "v2.2.6"
 		},
 		{
 			"checksumSHA1": "bQhz/fcyZPmuHSH2qwC4ZtATy5c=",
 			"path": "github.com/circonus-labs/circonus-gometrics/api/config",
-			"revision": "03033123293bfe2241d1f7e1a3de8fb508265251",
-			"revisionTime": "2018-09-28T18:16:22Z"
+			"revision": "d6e3aea90ab9f90fe8456e13fc520f43d102da4d",
+			"revisionTime": "2019-01-28T15:50:09Z",
+			"version": "v2.2.6",
+			"versionExact": "v2.2.6"
 		},
 		{
 			"checksumSHA1": "Ij8yB33E0Kk+GfTkNRoF1mG26dc=",
@@ -2321,10 +2333,10 @@
 			"revisionTime": "2018-01-30T19:37:22Z"
 		},
 		{
-			"checksumSHA1": "Tutue3nEgM/87jitUcYv6ODwyNE=",
+			"checksumSHA1": "+nVM+CEZGAopOrYlLifgWP+X01E=",
 			"path": "github.com/satori/go.uuid",
-			"revision": "b2ce2384e17bbe0c6d34077efa39dbab3e09123b",
-			"revisionTime": "2018-10-28T12:50:25Z"
+			"revision": "f58768cc1a7a7e77a3bd49e98cdd21419399b6a3",
+			"revisionTime": "2018-01-03T03:42:45Z"
 		},
 		{
 			"checksumSHA1": "tnMZLo/kR9Kqx6GtmWwowtTLlA8=",
