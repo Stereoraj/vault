@@ -81,8 +81,8 @@ require (
 	github.com/hashicorp/go-version v1.1.0
 	github.com/hashicorp/golang-lru v0.5.1
 	github.com/hashicorp/hcl v1.0.0
-	github.com/hashicorp/memberlist v0.1.3 // indirect
 	github.com/hashicorp/nomad v0.0.0-20190325211943-4ca6cda6c107
+	github.com/hashicorp/serf v0.8.2 // indirect
 	github.com/hashicorp/vault-plugin-auth-alicloud v0.0.0-20190320211238-36e70c54375f
 	github.com/hashicorp/vault-plugin-auth-azure v0.0.0-20190320211138-f34b96803f04
 	github.com/hashicorp/vault-plugin-auth-centrify v0.0.0-20190320211357-44eb061bdfd8
