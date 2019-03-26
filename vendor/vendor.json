@@ -1193,10 +1193,12 @@
 			"revisionTime": "2019-03-12T03:24:27Z"
 		},
 		{
-			"checksumSHA1": "CuppT0JbGhXoK91WS04NeFMdCvk=",
+			"checksumSHA1": "r0ji3HqJbTxwiR3CEba0ZVALv2s=",
 			"path": "github.com/google/go-github/github",
-			"revision": "fc51e0a08ebd23dfaa8cacd77444a8ca57df151f",
-			"revisionTime": "2019-03-21T20:02:59Z"
+			"revision": "7462feb2032c2da9e3b85e9b04e6853a6e9e14ca",
+			"revisionTime": "2019-02-28T02:49:24Z",
+			"version": "v24.0.1",
+			"versionExact": "v24.0.1"
 		},
 		{
 			"checksumSHA1": "p3IB18uJRs4dL2K5yx24MrLYE9A=",
@@ -1253,22 +1255,28 @@
 			"revisionTime": "2016-01-25T11:53:50Z"
 		},
 		{
-			"checksumSHA1": "DdZbm+ABJ4/IGF1vrN7BoUA4Wkg=",
+			"checksumSHA1": "dc6+x3Ovk0idCZP3s0GCVxVFJuA=",
 			"path": "github.com/hashicorp/consul/api",
-			"revision": "74c31c540f9ca88ccaf2c8fba861a17e3338b613",
-			"revisionTime": "2019-03-25T22:46:27Z"
+			"revision": "ea5210a30e154f4da9a4c8e729b45b8ce7b9b92c",
+			"revisionTime": "2019-03-20T16:00:54Z",
+			"version": "v1.4.4",
+			"versionExact": "v1.4.4"
 		},
 		{
 			"checksumSHA1": "e6BszMbYDBCEGX/E1/cArahasWw=",
 			"path": "github.com/hashicorp/consul/lib",
-			"revision": "74c31c540f9ca88ccaf2c8fba861a17e3338b613",
-			"revisionTime": "2019-03-25T22:46:27Z"
+			"revision": "ea5210a30e154f4da9a4c8e729b45b8ce7b9b92c",
+			"revisionTime": "2019-03-20T16:00:54Z",
+			"version": "v1.4.4",
+			"versionExact": "v1.4.4"
 		},
 		{
-			"checksumSHA1": "cj9AiHvddtPUSx1JsP6yuMEh5mY=",
+			"checksumSHA1": "hRGQBMkhZwHXnktjJCKJsoLkT20=",
 			"path": "github.com/hashicorp/consul/version",
-			"revision": "74c31c540f9ca88ccaf2c8fba861a17e3338b613",
-			"revisionTime": "2019-03-25T22:46:27Z"
+			"revision": "ea5210a30e154f4da9a4c8e729b45b8ce7b9b92c",
+			"revisionTime": "2019-03-20T16:00:54Z",
+			"version": "v1.4.4",
+			"versionExact": "v1.4.4"
 		},
 		{
 			"checksumSHA1": "ByRdQMv2yl16W6Tp9gUW1nNmpuI=",
