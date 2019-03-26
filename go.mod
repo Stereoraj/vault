@@ -61,7 +61,7 @@ require (
 	github.com/golang/snappy v0.0.1
 	github.com/google/btree v0.0.0-20190321164330-bfb38958ad22
 	github.com/google/go-cmp v0.0.0-20190312032427-6f77996f0c42
-	github.com/google/go-github v0.0.0-20190228024924-7462feb2032c
+	github.com/google/go-github/v24 v24.0.1
 	github.com/google/go-querystring v0.0.0-20190318165438-c8c88dbee036
 	github.com/google/gofuzz v0.0.0-20170612174753-24818f796faf
 	github.com/google/uuid v1.1.1
