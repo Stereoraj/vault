@@ -67,7 +67,7 @@ require (
 	github.com/hashicorp/consul v1.4.4
 	github.com/hashicorp/errwrap v1.0.0
 	github.com/hashicorp/go-cleanhttp v0.5.1
-	github.com/hashicorp/go-gcp-common v0.0.0-20180425173946-763e39302965
+	github.com/hashicorp/go-gcp-common v0.5.0
 	github.com/hashicorp/go-hclog v0.8.0
 	github.com/hashicorp/go-immutable-radix v1.0.0
 	github.com/hashicorp/go-memdb v1.0.0
